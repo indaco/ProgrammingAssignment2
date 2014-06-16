@@ -5,7 +5,7 @@
 ## to caching the inverse of a matrix rather than compute it repeatedly. 
 ##
 ##################################################################################
-## FUNCTION: makeCacheMatric
+## FUNCTION: makeCacheMatrix
 ##
 ## It creates a special "matrix", which is really a list containing a function to:
 ##
